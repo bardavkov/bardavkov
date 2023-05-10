@@ -9,3 +9,9 @@ Budget Tracker is a simple and user-friendly application designed to help you tr
 - **Expense Tracking**: Easily record your daily expenses and categorize them for better analysis and understanding of your spending habits.
 
 - **Income Management**: Keep track of your various sources of income, such as salary, freelancing work, or investments, to gain a comprehensive overview of your financial inflow.
+
+-# LAB 3:
+- Using html, css, js, I created a simple Tic-Tac-Toe game that the user can play if he is bored
+- Lylo Vitaliy
+- https://github.com/VilaTiw/Immigration-Assistance-Application
+- https://github.com/bardavkov/bardavkov/pull/1

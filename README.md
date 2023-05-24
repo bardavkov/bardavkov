@@ -15,3 +15,10 @@ Budget Tracker is a simple and user-friendly application designed to help you tr
 - Lylo Vitaliy
 - https://github.com/VilaTiw/Immigration-Assistance-Application
 - https://github.com/bardavkov/bardavkov/pull/1
+
+
+-# LAB 3:
+- You can modify html with js instead of format html in js , make all functions separate , don`t use var
+- Hulchenko Daniil 
+- https://github.com/DaniilHulchenko/WWW
+- https://github.com/bardavkov/bardavkov/pull/2
